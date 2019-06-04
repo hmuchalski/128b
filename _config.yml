@@ -7,7 +7,7 @@
 
 # Site settings
 title: Organic Chemistry (CHEM 128A)
-email: hubert_muchalski@csufresno.edu
+email: hmuchalski@mail.fresnostate.edu
 description: > # this means to ignore newlines until "baseurl:"
   Announcements and materials for the Organic Chemistry course at Fresno State
 baseurl: "/128b" # the subpath of your site, e.g. /blog
