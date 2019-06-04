@@ -6,13 +6,22 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-email: hmuchalski@mail.fresnostate.edu
-title: Organic Chemistry 2 (CHEM 128B)
-description: > # this means to ignore newlines until "baseurl:"
-  Announcements and materials for the second semester of Organic Chemistry with Dr. Hubert Muchalski at Fresno State
-baseurl: # the subpath of your site, e.g. /blog change before pushing to github
-url: "http://muchalski.net" # the base hostname & protocol for your site
-twitter_username: hubertmuchalski
+course:
+  baseurl: /128b
+  number: CHEM 128B
+  name: Organic Chemistry 2
+  description: Upper-division course in organic chemistry for science majors.
+  term: Spring 2020
+  instructor:
+    name: Dr. Hubert Muchalski
+    office: Science I 352
+    office_hours:
+    email: hmuchalski@mail.fresnostate.edu
+    phone: (559) 278-2711
+    web: http://muchalski.net/
+    # No @ before your username; e.g., twitter, not @twitter
+    twitter: hubertmuchalski
+    github: hmuchalski
 
 # Build settings
 markdown: kramdown
